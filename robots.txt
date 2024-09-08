@@ -11,4 +11,4 @@ Disallow:
 #changes made to check git pull command
 #changes made to check git push command
 #seconf change to check git push command
-#changes made to check ssh communication
+#changes made to demostrate ssh protocol
